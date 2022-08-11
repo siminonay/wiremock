@@ -1,0 +1,8 @@
+/target/
+/.settings/
+/.classpath/
+/.project
+/.vscode
+/mappings/tmp*
+/.idea/
+/wiremock.iml
